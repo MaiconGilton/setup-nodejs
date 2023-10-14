@@ -1,0 +1,31 @@
+{
+  "name": "setup-nodejs",
+  "version": "0.0.1",
+  "description": "setup node.js",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaiconGilton/setup-nodejs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Typescript",
+    "Eslint",
+    "Docker",
+    "Jest",
+    "Github",
+    "Actions",
+    "CI/CD"
+  ],
+  "author": "Maicon Gilton <maicongilton@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaiconGilton/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/MaiconGilton/setup-nodejs#readme",
+  "devDependencies": {
+  }
+}
