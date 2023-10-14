@@ -4,7 +4,7 @@
   "description": "setup node.js",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --exit-child -r tsconfig-paths/register --respawn --transpile-only --ignore-watch node_modules api/src/server.ts",
+    "dev": "ts-node-dev --exit-child -r tsconfig-paths/register --respawn --transpile-only --ignore-watch node_modules src/server.ts",
     "build": "babel src --extensions \".js,.ts\" --out-dir dist --copy-files --no-copy-ignored",
     "lint": "eslint .",
     "test": "jest",
