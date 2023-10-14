@@ -34,7 +34,9 @@
     "@babel/node": "^7.22.19",
     "@babel/preset-env": "^7.23.2",
     "@babel/preset-typescript": "^7.23.2",
+    "babel-plugin-module-resolver": "^5.0.0",
     "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.2.0",
     "typescript": "^5.2.2"
   }
 }
